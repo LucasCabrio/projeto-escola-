@@ -170,6 +170,3 @@ projeto-escola/
 ## Autor
 
 Lucas Cabrio
-
-```
-```
